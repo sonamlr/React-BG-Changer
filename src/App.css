@@ -1,0 +1,22 @@
+.my-bg{
+  width: 100%;
+  height: 100vh;
+}
+.btn-wrapper{
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+
+.main-btn{
+  background-color: #383943;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+.main-btn button{
+  padding: 5px 10px;
+  border-radius: 10px;
+}
